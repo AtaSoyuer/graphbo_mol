@@ -12,7 +12,8 @@ In silico screening is an essential component of drug design and materials disco
 
 ## Results
 
-(Put a table as figure and refer to thesis for more comprehensive results)
+![](path_to_image)
+*Fig.1 Table summarizing the benchmark results of our method against two novel Bayeasian graph optimization methods: SOBER and BGNN-BO*
 
 ## Related Work Published In:
 
